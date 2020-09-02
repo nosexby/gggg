@@ -44,7 +44,7 @@
     "form-data": "^2.3.1",
     "fs-extra": "^0.30.0",
     "geoip-lite": "^1.2.1",
-    "googleapis": "^29.0.0",
+    "googleapis": "^39.1.0",
     "gridfs-stream": "git+https://github.com/jlyonsmith/gridfs-stream.git",
     "gunzip-maybe": "^1.4.1",
     "hash-files": "^1.1.1",
