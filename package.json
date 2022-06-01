@@ -90,7 +90,7 @@
     "refresh-token": "^1.0.0",
     "request-promise": "^4.2.2",
     "serve-favicon": "^2.0.1",
-    "sharp": "^0.18.4",
+    "sharp": "^0.30.5",
     "simple-bufferstream": "^1.0.0",
     "stream": "0.0.2",
     "stream-buffers": "^3.0.1",
