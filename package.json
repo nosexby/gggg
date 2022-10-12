@@ -84,7 +84,7 @@
     "passport-patreon": "git+https://github.com/ioscreatix/passport-patreon.git",
     "patreon": "^0.3.0",
     "paypal-rest-sdk": "^1.8.1",
-    "plist": "^3.0.1",
+    "plist": "^3.0.6",
     "pm2": "^2.10.1",
     "pp-ipn": "^1.0.5",
     "refresh-token": "^1.0.0",
