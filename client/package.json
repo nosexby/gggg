@@ -14,7 +14,7 @@
     "cookie-parser": "^1.4.3",
     "data-prefetch-link": "^1.1.2",
     "deb-version-compare": "^1.2.1",
-    "express": "^4.14.0",
+    "express": "^4.18.2",
     "express-session": "^1.15.6",
     "fetch": "^1.1.0",
     "moment": "^2.22.0",
